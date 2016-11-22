@@ -1,0 +1,9 @@
+FZKaiS-Extended	方正楷体S-超大字符集
+FZKaiS-Extended(SIP)	方正楷体S-超大字符集(SIP)
+FZKaiT-Extended	FZKaiT-Extended
+FZKaiT-Extended(SIP)	FZKaiT-Extended(SIP)
+FZNewKaiS-Extended	方正新楷体S-超大字符集
+FZNewKaiS-Extended(SIP)	方正新楷体S-超大字符集(SIP)
+FZSongS-Extended	方正宋体S-超大字符集
+FZSongS-Extended(SIP)	方正宋体S-超大字符集(SIP)
+Simsun (Founder Extended)	宋体-方正超大字符集
