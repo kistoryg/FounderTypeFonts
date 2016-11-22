@@ -12,7 +12,7 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体540种：
+目前官方商城在售字体545种：
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
@@ -171,6 +171,7 @@
 | 方正字迹-吕建德魏碑繁体     | FZZJ-LJDWBFW       | GB12345-90 |
 | 方正字迹-佩安硬笔繁体       | FZZJ-PANYBFW       | GB12345-90 |
 | 方正字迹-童佬繁体           | FZZJ-TLFW          | GB12345-90 |
+| 方正字迹-王伟钢笔行书繁体   | FZZJ-WWGBXSFW      | GB12345-90 |
 | 方正字迹-潇洒隶书繁体       | FZZJ-XSLSFW        | GB12345-90 |
 | 方正字迹-邢体草书繁体       | FZZJ-XTCSFW        | GB12345-90 |
 | 方正字迹-邢体隶二繁体       | FZZJ-XTLEFW        | GB12345-90 |
@@ -178,6 +179,7 @@
 | 方正字迹-学贞简帛繁体       | FZZJ-XZJBFW        | GB12345-90 |
 | 方正字迹-彦辰清酒繁体       | FZZJ-YCQJFW        | GB12345-90 |
 | 方正字迹-元童楷隶繁体       | FZZJ-YTKLFW        | GB12345-90 |
+| 方正字迹-张爨繁体           | FZZJ-ZCFW          | GB12345-90 |
 | 方正字迹-张颢硬笔楷体繁体   | FZZJ-ZHYBKTFW      | GB12345-90 |
 | 方正字迹-张乃仁行楷繁体     | FZZJ-ZNRXKFW       | GB12345-90 |
 | 方正字迹-张士超魏碑繁体     | FZZJ-ZSCWBFW       | GB12345-90 |
@@ -427,7 +429,9 @@
 | 方正字迹-童佬简体           | FZZJ-TLJW          | GB2312-80  |
 | 方正字迹-童体毛笔简体       | FZZJ-TTMBJW        | GB2312-80  |
 | 方正字迹-童体硬笔简体       | FZZJ-TTYBJW        | GB2312-80  |
+| 方正字迹-王伟钢笔行书简体   | FZZJ-WWGBXSJW      | GB2312-80  |
 | 方正字迹-潇洒隶书简体       | FZZJ-XSLSJW        | GB2312-80  |
+| 方正字迹-新手书             | FZZJ-XSS           | GB2312-80  |
 | 方正字迹-邢体草书简体       | FZZJ-XTCSJW        | GB2312-80  |
 | 方正字迹-邢体隶二简体       | FZZJ-XTLEJW        | GB2312-80  |
 | 方正字迹-邢体隶一简体       | FZZJ-XTLYJW        | GB2312-80  |
@@ -435,6 +439,7 @@
 | 方正字迹-彦辰清酒简体       | FZZJ-YCQJJW        | GB2312-80  |
 | 方正字迹-叶根友特楷简体     | FZZJ-YGYTKJW       | GB2312-80  |
 | 方正字迹-元童楷隶简体       | FZZJ-YTKLJW        | GB2312-80  |
+| 方正字迹-张爨简体           | FZZJ-ZCJW          | GB2312-80  |
 | 方正字迹-张颢硬笔楷体简体   | FZZJ-ZHYBKTJW      | GB2312-80  |
 | 方正字迹-张乃仁行楷简体     | FZZJ-ZNRXKJW       | GB2312-80  |
 | 方正字迹-张士超魏碑简体     | FZZJ-ZSCWBJW       | GB2312-80  |
