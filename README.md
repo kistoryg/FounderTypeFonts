@@ -12,7 +12,7 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体545种：
+目前官方商城在售字体547种：
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
@@ -163,6 +163,7 @@
 | 方正字迹-德年行书繁体       | FZZJ-DNXSFW        | GB12345-90 |
 | 方正字迹-典雅楷体繁体       | FZZJ-DYKTFW        | GB12345-90 |
 | 方正字迹-杜慧田草书繁体     | FZZJ-DHTCSFW       | GB12345-90 |
+| 方正字迹-度知度体繁体       | FZZJ-DZDTFW        | GB12345-90 |
 | 方正字迹-管峻楷书繁体       | FZZJ-GJKSFW        | GB12345-90 |
 | 方正字迹-豪放行书繁体       | FZZJ-HFXSFW        | GB12345-90 |
 | 方正字迹-黎凡行书繁体       | FZZJ-LFXSFW        | GB12345-90 |
@@ -415,6 +416,7 @@
 | 方正字迹-杜慧田草书简体     | FZZJ-DHTCSJW       | GB2312-80  |
 | 方正字迹-杜慧田毛笔楷书简体 | FZZJ-DHTMBKSJW     | GB2312-80  |
 | 方正字迹-杜慧田硬笔楷书简体 | FZZJ-DHTYBKSJW     | GB2312-80  |
+| 方正字迹-度知度体简体       | FZZJ-DZDTJW        | GB2312-80  |
 | 方正字迹-冯金城简体         | FZZJ-FJCJW         | GB2312-80  |
 | 方正字迹-佛君包装简体       | FZZJ-FJBZJW        | GB2312-80  |
 | 方正字迹-管峻楷书简体       | FZZJ-GJKSJW        | GB2312-80  |
