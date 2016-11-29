@@ -384,6 +384,14 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正硬笔楷书_GBK (Regular),方正硬笔楷书_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
 方正硬笔楷书繁体 (Regular),方正硬笔楷书繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正硬笔楷书简体 (Regular),方正硬笔楷书简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正勇克体简体 (Bold),方正勇克体简体,Bold,方正勇克体简体,Bold,,BDFZ,Regular,5 (Medium),700 (Bold),29,8105,8103
+方正勇克体简体 (Regular),方正勇克体简体,Regular,方正勇克体简体,Regular,,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
+方正勇克体简体 DemiBold (Regular),方正勇克体简体 DemiBold,Regular,方正勇克体简体,DemiBold,,BDFZ,Regular,5 (Medium),600 (Semi-bold),29,8105,8103
+方正勇克体简体 ExtraBold (Regular),方正勇克体简体 ExtraBold,Regular,方正勇克体简体,ExtraBold,,BDFZ,Regular,5 (Medium),800 (Extra-bold),29,8105,8103
+方正勇克体简体 ExtraLight (Regular),方正勇克体简体 ExtraLight,Regular,方正勇克体简体,ExtraLight,,BDFZ,Regular,5 (Medium),250,29,8105,8103
+方正勇克体简体 Heavy (Regular),方正勇克体简体 Heavy,Regular,方正勇克体简体,Heavy,,BDFZ,Regular,5 (Medium),900 (Black),29,8105,8103
+方正勇克体简体 Light (Regular),方正勇克体简体 Light,Regular,方正勇克体简体,Light,,BDFZ,Regular,5 (Medium),300 (Light),29,8105,8103
+方正勇克体简体 Medium (Regular),方正勇克体简体 Medium,Regular,方正勇克体简体,Medium,,BDFZ,Regular,5 (Medium),500 (Medium),29,8105,8103
 方正悠黑_GBK 503L (Regular),方正悠黑_GBK 503L,Regular,方正悠黑_GBK,503L,,BDFZ,Regular,5 (Medium),220,33,22002,22035
 方正悠黑_GBK 504L (Regular),方正悠黑_GBK 504L,Regular,方正悠黑_GBK,504L,,BDFZ,Regular,5 (Medium),250,33,22002,22035
 方正悠黑_GBK 506L (Regular),方正悠黑_GBK 506L,Regular,方正悠黑_GBK,506L,,BDFZ,Regular,5 (Medium),350,33,22002,22035

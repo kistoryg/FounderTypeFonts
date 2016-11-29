@@ -12,7 +12,7 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体547种：
+目前官方商城在售字体555种：
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
@@ -376,6 +376,14 @@
 | 方正萤雪简体                | FZYingXueJW        | GB2312-80  |
 | 方正硬笔行书简体            | FZYBXSJW           | GB2312-80  |
 | 方正硬笔楷书简体            | FZYBKSJW           | GB2312-80  |
+| 方正勇克体简体              | FZYongKTJ          | GB2312-80  |
+| 方正勇克体简体 Bold         | FZYongKTJ_Cu       | GB2312-80  |
+| 方正勇克体简体 DemiBold     | FZYongKTJ_Zhong    | GB2312-80  |
+| 方正勇克体简体 ExtraBold    | FZYongKTJ_Da       | GB2312-80  |
+| 方正勇克体简体 ExtraLight   | FZYongKTJ_Xian     | GB2312-80  |
+| 方正勇克体简体 Heavy        | FZYongKTJ_Te       | GB2312-80  |
+| 方正勇克体简体 Light        | FZYongKTJ_Xi       | GB2312-80  |
+| 方正勇克体简体 Medium       | FZYongKTJ_Zhun     | GB2312-80  |
 | 方正悠黑简体 501L           | FZYouHJW_501L      | GB2312-80  |
 | 方正悠黑简体 502L           | FZYouHJW_502L      | GB2312-80  |
 | 方正悠黑简体 503L           | FZYouHJW_503L      | GB2312-80  |
