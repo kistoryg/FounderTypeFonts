@@ -364,6 +364,14 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正新舒体简体 (Regular),方正新舒体简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正新秀丽繁体 (Regular),方正新秀丽繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正悬针篆变简体 (Regular),方正悬针篆变简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正雅珠体简体 (Bold),方正雅珠体简体,Bold,方正雅珠体简体,Bold,,BDFZ,Regular,5 (Medium),700 (Bold),29,8105,8103
+方正雅珠体简体 (Regular),方正雅珠体简体,Regular,方正雅珠体简体,Regular,,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
+方正雅珠体简体 DemiBold (Regular),方正雅珠体简体 DemiBold,Regular,方正雅珠体简体,DemiBold,,BDFZ,Regular,5 (Medium),600 (Semi-bold),29,8105,8103
+方正雅珠体简体 ExtraBold (Regular),方正雅珠体简体 ExtraBold,Regular,方正雅珠体简体,ExtraBold,,BDFZ,Regular,5 (Medium),800 (Extra-bold),29,8105,8103
+方正雅珠体简体 ExtraLight (Regular),方正雅珠体简体 ExtraLight,Regular,方正雅珠体简体,ExtraLight,,BDFZ,Regular,5 (Medium),250,29,8105,8103
+方正雅珠体简体 Heavy (Regular),方正雅珠体简体 Heavy,Regular,方正雅珠体简体,Heavy,,BDFZ,Regular,5 (Medium),900 (Black),29,8105,8103
+方正雅珠体简体 Light (Regular),方正雅珠体简体 Light,Regular,方正雅珠体简体,Light,,BDFZ,Regular,5 (Medium),300 (Light),29,8105,8103
+方正雅珠体简体 Medium (Regular),方正雅珠体简体 Medium,Regular,方正雅珠体简体,Medium,,BDFZ,Regular,5 (Medium),500 (Medium),29,8105,8103
 方正颜宋简体 (Regular),方正颜宋简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正颜宋简体_粗 (Regular),方正颜宋简体_粗,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正颜宋简体_大 (Regular),方正颜宋简体_大,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112

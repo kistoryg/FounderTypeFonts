@@ -12,7 +12,7 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体559种：
+目前官方商城在售字体567种：
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
@@ -182,10 +182,10 @@
 | 方正字迹-彦辰清酒繁体       | FZZJ-YCQJFW        | GB12345-90 |
 | 方正字迹-元童楷隶繁体       | FZZJ-YTKLFW        | GB12345-90 |
 | 方正字迹-张爨繁体           | FZZJ-ZCFW          | GB12345-90 |
-| 方正字迹-周崇谦小篆繁体     | FZZJ-ZCQXZFW       | GB12345-90 |
 | 方正字迹-张颢硬笔楷体繁体   | FZZJ-ZHYBKTFW      | GB12345-90 |
 | 方正字迹-张乃仁行楷繁体     | FZZJ-ZNRXKFW       | GB12345-90 |
 | 方正字迹-张士超魏碑繁体     | FZZJ-ZSCWBFW       | GB12345-90 |
+| 方正字迹-周崇谦小篆繁体     | FZZJ-ZCQXZFW       | GB12345-90 |
 | 方正字迹-朱涛钢笔行书繁体   | FZZJ-ZTGBXSFW      | GB12345-90 |
 | 方正字迹-朱涛毛笔正楷繁体   | FZZJ-ZTMBZKFW      | GB12345-90 |
 | 方正综艺繁体                | FZZYFW             | GB12345-90 |
@@ -336,9 +336,9 @@
 | 方正宋刻本秀楷简体          | FZSKBXKJW          | GB2312-80  |
 | 方正宋三简体                | FZS3JW             | GB2312-80  |
 | 方正宋一简体                | FZSYJW             | GB2312-80  |
-| 方正孙拥声简体              | FZSYSJW            | GB2312-80  |
 | 方正苏新诗柳楷简体          | FZSXSLKJW          | GB2312-80  |
 | 方正苏新诗艺标简体          | FZSuXSYBJW         | GB2312-80  |
+| 方正孙拥声简体              | FZSYSJW            | GB2312-80  |
 | 方正淘乐简体                | FZTLJW             | GB2312-80  |
 | 方正特粗光辉简体            | FZTCGHJW           | GB2312-80  |
 | 方正特雅宋简体              | FZTYSJW            | GB2312-80  |
@@ -367,6 +367,14 @@
 | 方正新书宋简体              | FZXSSJW            | GB2312-80  |
 | 方正新舒体简体              | FZNSTJW            | GB2312-80  |
 | 方正悬针篆变简体            | FZXZZBJW           | GB2312-80  |
+| 方正雅珠体简体              | FZYaZTJ            | GB2312-80  |
+| 方正雅珠体简体 Bold         | FZYaZTJ_Cu         | GB2312-80  |
+| 方正雅珠体简体 DemiBold     | FZYaZTJ_Zhong      | GB2312-80  |
+| 方正雅珠体简体 ExtraBold    | FZYaZTJ_Da         | GB2312-80  |
+| 方正雅珠体简体 ExtraLight   | FZYaZTJ_Xian       | GB2312-80  |
+| 方正雅珠体简体 Heavy        | FZYaZTJ_Te         | GB2312-80  |
+| 方正雅珠体简体 Light        | FZYaZTJ_Xi         | GB2312-80  |
+| 方正雅珠体简体 Medium       | FZYaZTJ_Zhun       | GB2312-80  |
 | 方正颜宋简体                | FZYanSJW           | GB2312-80  |
 | 方正颜宋简体_粗             | FZYanSJW_Cu        | GB2312-80  |
 | 方正颜宋简体_大             | FZYanSJW_Da        | GB2312-80  |
@@ -453,14 +461,14 @@
 | 方正字迹-叶根友特楷简体     | FZZJ-YGYTKJW       | GB2312-80  |
 | 方正字迹-元童楷隶简体       | FZZJ-YTKLJW        | GB2312-80  |
 | 方正字迹-张爨简体           | FZZJ-ZCJW          | GB2312-80  |
-| 方正字迹-周崇谦小篆简体     | FZZJ-ZCQXZJW       | GB2312-80  |
 | 方正字迹-张颢硬笔楷体简体   | FZZJ-ZHYBKTJW      | GB2312-80  |
 | 方正字迹-张乃仁行楷简体     | FZZJ-ZNRXKJW       | GB2312-80  |
 | 方正字迹-张士超魏碑简体     | FZZJ-ZSCWBJW       | GB2312-80  |
-| 方正字迹-子实行楷简体       | FZZJ-ZSXKJW        | GB2312-80  |
+| 方正字迹-志勇魏碑简体       | FZZJ-ZYWBJW        | GB2312-80  |
+| 方正字迹-周崇谦小篆简体     | FZZJ-ZCQXZJW       | GB2312-80  |
 | 方正字迹-朱涛钢笔行书简体   | FZZJ-ZTGBXSJW      | GB2312-80  |
 | 方正字迹-朱涛毛笔正楷简体   | FZZJ-ZTMBZKJW      | GB2312-80  |
-| 方正字迹-志勇魏碑简体       | FZZJ-ZYWBJW        | GB2312-80  |
+| 方正字迹-子实行楷简体       | FZZJ-ZSXKJW        | GB2312-80  |
 | 方正综艺简体                | FZZYJW             | GB2312-80  |
 | 方正报宋_GBK                | FZBSK              | GBK        |
 | 方正北魏楷书_GBK            | FZBWKSK            | GBK        |
