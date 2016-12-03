@@ -2,7 +2,7 @@
 
 官方网站:[http://www.foundertype.com/](http://www.foundertype.com/)
 
-官网商城:[http://shop.foundertype.com/index.php/FindFont/searchFont.html](http://shop.foundertype.com/index.php/FindFont/searchFont.html)
+官网商城:[http://shop.foundertype.com/index.php/FindFont/index.html](http://shop.foundertype.com/index.php/FindFont/index.html)
 
 官方淘宝店:[https://fangzhengziku.taobao.com/](https://fangzhengziku.taobao.com/)
 
@@ -12,10 +12,11 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体567种：
+目前官方商城在售字体568种：
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
+| 方正黑體                    | FZHTB              | BIG-5      |
 | 方正蘭亭超細黑_BIG5         | FZLTCXHB           | BIG-5      |
 | 方正蘭亭粗黑_BIG5           | FZLTCHB            | BIG-5      |
 | 方正蘭亭大黑_BIG5           | FZLTDHB            | BIG-5      |
