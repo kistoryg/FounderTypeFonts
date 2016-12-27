@@ -12,11 +12,24 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体568种：
+目前官方商城在售字体616种：
+
+| 字符集     | 字体数     |
+|------------|------------|
+| GB2312-80  | 281+38      |
+| GB12345-90 | 163        |
+| GBK        | 112        |
+| BIG-5      | 21         |
+|GB18030-2000| 1          |
+|GB18030-2005| 0          |
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
+| 方正粗黑                    | FZH4B              | BIG-5      |
+| 方正粗圓                    | FZY4B              | BIG-5      |
+| 方正仿宋                    | FZFSB              | BIG-5      |
 | 方正黑體                    | FZHTB              | BIG-5      |
+| 方正楷體                    | FZKTB              | BIG-5      |
 | 方正蘭亭超細黑_BIG5         | FZLTCXHB           | BIG-5      |
 | 方正蘭亭粗黑_BIG5           | FZLTCHB            | BIG-5      |
 | 方正蘭亭大黑_BIG5           | FZLTDHB            | BIG-5      |
@@ -27,6 +40,12 @@
 | 方正蘭亭中粗黑_BIG5         | FZLTZCHB           | BIG-5      |
 | 方正蘭亭中黑_BIG5           | FZLTZHB            | BIG-5      |
 | 方正蘭亭準黑_BIG5           | FZLTZHUNHB         | BIG-5      |
+| 方正細黑一                  | FZXH1B             | BIG-5      |
+| 方正細圓                    | FZY1B              | BIG-5      |
+| 方正新書宋                  | FZXSSB             | BIG-5      |
+| 方正新秀麗                  | FZXXLB             | BIG-5      |
+| 方正幼線                    | FZYXB              | BIG-5      |
+| 方正準圓                    | FZY3B              | BIG-5      |
 | 方正榜书行繁体              | FZBangSXFW         | GB12345-90 |
 | 方正榜书楷繁体              | FZBangSKFW         | GB12345-90 |
 | 方正报宋繁体                | FZXLFW             | GB12345-90 |
@@ -211,14 +230,36 @@
 | 方正粗雅宋简体              | FZCYSJW            | GB2312-80  |
 | 方正粗圆简体                | FZY4JW             | GB2312-80  |
 | 方正粗圆宋简体              | FZCuYSJ            | GB2312-80  |
+| 方正达利体简体              | FZDaLTJ            | GB2312-80  |
+| 方正达利体简体 Bold         | FZDaLTJ_Cu         | GB2312-80  |
+| 方正达利体简体 DemiBold     | FZDaLTJ_Zhong      | GB2312-80  |
+| 方正达利体简体 ExtraBold    | FZDaLTJ_Da         | GB2312-80  |
+| 方正达利体简体 ExtraLight   | FZDaLTJ_Xian       | GB2312-80  |
+| 方正达利体简体 Heavy        | FZDaLTJ_Te         | GB2312-80  |
+| 方正达利体简体 Light        | FZDaLTJ_Xi         | GB2312-80  |
+| 方正达利体简体 Medium       | FZDaLTJ_Zhun       | GB2312-80  |
 | 方正大标宋简体              | FZDBSJW            | GB2312-80  |
 | 方正大草简体                | FZDCJW             | GB2312-80  |
 | 方正大黑简体                | FZDHTJW            | GB2312-80  |
 | 方正大魏体简体              | FZDWTJW            | GB2312-80  |
 | 方正大雅宋简体              | FZDYSJW            | GB2312-80  |
 | 方正德赛黑515简体           | FZDSH515JW         | GB2312-80  |
+| 方正帝后体简体              | FZDiHTJ            | GB2312-80  |
+| 方正帝后体简体 Bold         | FZDiHTJ_Cu         | GB2312-80  |
+| 方正帝后体简体 DemiBold     | FZDiHTJ_Zhong      | GB2312-80  |
+| 方正帝后体简体 ExtraBold    | FZDiHTJ_Da         | GB2312-80  |
+| 方正帝后体简体 ExtraLight   | FZDiHTJ_Xian       | GB2312-80  |
+| 方正帝后体简体 Heavy        | FZDiHTJ_Te         | GB2312-80  |
+| 方正帝后体简体 Light        | FZDiHTJ_Xi         | GB2312-80  |
+| 方正帝后体简体 Medium       | FZDiHTJ_Zhun       | GB2312-80  |
 | 方正方魅简体                | FZFMJW             | GB2312-80  |
 | 方正仿宋简体                | FZFSJW             | GB2312-80  |
+| 方正非凡体简体              | FZFeiFTJ           | GB2312-80  |
+| 方正非凡体简体 Bold         | FZFeiFTJ_Cu        | GB2312-80  |
+| 方正非凡体简体 DemiBold     | FZFeiFTJ_Zhong     | GB2312-80  |
+| 方正非凡体简体 ExtraBold    | FZFeiFTJ_Da        | GB2312-80  |
+| 方正非凡体简体 Light        | FZFeiFTJ_Xi        | GB2312-80  |
+| 方正非凡体简体 Medium       | FZFeiFTJ_Zhun      | GB2312-80  |
 | 方正粉丝天下简体            | FZFenSTXJW         | GB2312-80  |
 | 方正工业黑简体              | FZGongYHJW         | GB2312-80  |
 | 方正古仿简体                | FZGuFangJW         | GB2312-80  |
@@ -298,6 +339,14 @@
 | 方正平和简体                | FZPHTJW            | GB2312-80  |
 | 方正启笛简体                | FZQDJW             | GB2312-80  |
 | 方正启体简体                | FZQTJW             | GB2312-80  |
+| 方正清纯体简体              | FZQingCTJ          | GB2312-80  |
+| 方正清纯体简体 Bold         | FZQingCTJ_Cu       | GB2312-80  |
+| 方正清纯体简体 DemiBold     | FZQingCTJ_Zhong    | GB2312-80  |
+| 方正清纯体简体 ExtraBold    | FZQingCTJ_Da       | GB2312-80  |
+| 方正清纯体简体 ExtraLight   | FZQingCTJ_Xian     | GB2312-80  |
+| 方正清纯体简体 Heavy        | FZQingCTJ_Te       | GB2312-80  |
+| 方正清纯体简体 Light        | FZQingCTJ_Xi       | GB2312-80  |
+| 方正清纯体简体 Medium       | FZQingCTJ_Zhun     | GB2312-80  |
 | 方正清刻本悦宋简体          | FZQKBYSJW          | GB2312-80  |
 | 方正趣宋简体                | FZQuSJW            | GB2312-80  |
 | 方正锐水云简体_大           | FZRuiSYJW_Da       | GB2312-80  |
@@ -384,6 +433,14 @@
 | 方正颜宋简体_准             | FZYanSJW_Zhun      | GB2312-80  |
 | 方正姚体简体                | FZYTJW             | GB2312-80  |
 | 方正艺黑简体                | FZYHJW             | GB2312-80  |
+| 方正盈利体简体              | FZYingLTJ          | GB2312-80  |
+| 方正盈利体简体 Bold         | FZYingLTJ_Cu       | GB2312-80  |
+| 方正盈利体简体 DemiBold     | FZYingLTJ_Zhong    | GB2312-80  |
+| 方正盈利体简体 ExtraBold    | FZYingLTJ_Da       | GB2312-80  |
+| 方正盈利体简体 ExtraLight   | FZYingLTJ_Xian     | GB2312-80  |
+| 方正盈利体简体 Heavy        | FZYingLTJ_Te       | GB2312-80  |
+| 方正盈利体简体 Light        | FZYingLTJ_Xi       | GB2312-80  |
+| 方正盈利体简体 Medium       | FZYingLTJ_Zhun     | GB2312-80  |
 | 方正萤雪简体                | FZYingXueJW        | GB2312-80  |
 | 方正硬笔行书简体            | FZYBXSJW           | GB2312-80  |
 | 方正硬笔楷书简体            | FZYBKSJW           | GB2312-80  |
