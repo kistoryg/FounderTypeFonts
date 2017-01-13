@@ -16,7 +16,7 @@
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 303+16     |
+| GB2312-80  | 311+8      |
 | GB12345-90 | 163        |
 | GBK        | 112        |
 | BIG-5      | 21         |
@@ -563,14 +563,14 @@
 | 方正兰亭细黑_GBK            | FZLTXIHK           | GBK        |
 | 方正兰亭纤黑_GBK            | FZLTXHK            | GBK        |
 | 方正兰亭圆_GBK              | FZLanTYK           | GBK        |
-| 方正兰亭圆_GBK_粗           | FZLanTYK_Cu        | GBK        |
-| 方正兰亭圆_GBK_大           | FZLanTYK_Da        | GBK        |
-| 方正兰亭圆_GBK_特           | FZLanTYK_Te        | GBK        |
-| 方正兰亭圆_GBK_细           | FZLanTYK_Xi        | GBK        |
-| 方正兰亭圆_GBK_纤           | FZLanTYK_Xian      | GBK        |
-| 方正兰亭圆_GBK_中           | FZLanTYK_Zhong     | GBK        |
-| 方正兰亭圆_GBK_中粗         | FZLanTYK_ZhongCu   | GBK        |
-| 方正兰亭圆_GBK_准           | FZLanTYK_Zhun      | GBK        |
+| 方正兰亭圆\_GBK\_粗         | FZLanTYK_Cu        | GBK        |
+| 方正兰亭圆\_GBK\_大         | FZLanTYK_Da        | GBK        |
+| 方正兰亭圆\_GBK\_特         | FZLanTYK_Te        | GBK        |
+| 方正兰亭圆\_GBK\_细         | FZLanTYK_Xi        | GBK        |
+| 方正兰亭圆\_GBK\_纤         | FZLanTYK_Xian      | GBK        |
+| 方正兰亭圆\_GBK\_中         | FZLanTYK_Zhong     | GBK        |
+| 方正兰亭圆\_GBK\_中粗       | FZLanTYK_ZhongCu   | GBK        |
+| 方正兰亭圆\_GBK\_准         | FZLanTYK_Zhun      | GBK        |
 | 方正兰亭中粗黑_GBK          | FZLTZCHK           | GBK        |
 | 方正兰亭中黑_GBK            | FZLTZHK            | GBK        |
 | 方正兰亭准黑_GBK            | FZLTZHUNHK         | GBK        |
