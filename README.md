@@ -12,23 +12,28 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体616种：
+目前官方商城在售字体630种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 319        |
-| GB12345-90 | 163        |
-| GBK        | 112        |
-| BIG-5      | 21         |
+| GB2312-80  | 319+1      |
+| GB12345-90 | 163+1      |
+| GBK        | 111+1      |
+| BIG-5      | 33         |
 |GB18030-2000| 1          |
 |GB18030-2005| 0          |
 
 | 字体名                      | 文件名             | 字符集     |
 |-----------------------------|--------------------|------------|
+| 方正彩雲                    | FZCYB              | BIG-5      |
+| 方正超粗黑                  | FZCCHB             | BIG-5      |
 | 方正粗黑                    | FZH4B              | BIG-5      |
 | 方正粗圓                    | FZY4B              | BIG-5      |
+| 方正大標宋                  | FZDBSB             | BIG-5      |
 | 方正仿宋                    | FZFSB              | BIG-5      |
+| 方正行楷                    | FZXKB              | BIG-5      |
 | 方正黑體                    | FZHTB              | BIG-5      |
+| 方正琥珀                    | FZHPB              | BIG-5      |
 | 方正楷體                    | FZKTB              | BIG-5      |
 | 方正蘭亭超細黑_BIG5         | FZLTCXHB           | BIG-5      |
 | 方正蘭亭粗黑_BIG5           | FZLTCHB            | BIG-5      |
@@ -40,12 +45,19 @@
 | 方正蘭亭中粗黑_BIG5         | FZLTZCHB           | BIG-5      |
 | 方正蘭亭中黑_BIG5           | FZLTZHB            | BIG-5      |
 | 方正蘭亭準黑_BIG5           | FZLTZHUNHB         | BIG-5      |
+| 方正隸變                    | FZLBB              | BIG-5      |
+| 方正平黑                    | FZPHB              | BIG-5      |
+| 方正舒體                    | FZSTB              | BIG-5      |
+| 方正魏碑                    | FZWBB              | BIG-5      |
 | 方正細黑一                  | FZXH1B             | BIG-5      |
 | 方正細圓                    | FZY1B              | BIG-5      |
+| 方正小標宋                  | FZXBSB             | BIG-5      |
 | 方正新書宋                  | FZXSSB             | BIG-5      |
 | 方正新秀麗                  | FZXXLB             | BIG-5      |
 | 方正幼線                    | FZYXB              | BIG-5      |
+| 方正中楷                    | FZZKB              | BIG-5      |
 | 方正準圓                    | FZY3B              | BIG-5      |
+| 方正綜藝                    | FZZYB              | BIG-5      |
 | 方正榜书行繁体              | FZBangSXFW         | GB12345-90 |
 | 方正榜书楷繁体              | FZBangSKFW         | GB12345-90 |
 | 方正报宋繁体                | FZXLFW             | GB12345-90 |
@@ -179,6 +191,7 @@
 | 方正中雅宋繁体              | FZZYSFW            | GB12345-90 |
 | 方正准雅宋繁体              | FZZHUNYSFW         | GB12345-90 |
 | 方正准圆繁体                | FZY3FW             | GB12345-90 |
+| 方正字迹－曾正国行楷繁体    | FZZJ-ZZGXKFW       | GB12345-90 |
 | 方正字迹-曾正国楷体繁体     | FZZJ-ZZGKTFW       | GB12345-90 |
 | 方正字迹-德年行书繁体       | FZZJ-DNXSFW        | GB12345-90 |
 | 方正字迹-典雅楷体繁体       | FZZJ-DYKTFW        | GB12345-90 |
@@ -486,6 +499,7 @@
 | 方正准雅宋简体              | FZZHUNYSJW         | GB2312-80  |
 | 方正准圆简体                | FZY3JW             | GB2312-80  |
 | 方正字迹-百乐硬笔简体       | FZZJ-BLYBJW        | GB2312-80  |
+| 方正字迹-曾正国行楷简体     | FZZJ-ZZGXKJW       | GB2312-80  |
 | 方正字迹-曾正国楷体简体     | FZZJ-ZZGKTJW       | GB2312-80  |
 | 方正字迹-德年行书简体       | FZZJ-DNXSJW        | GB2312-80  |
 | 方正字迹-典雅楷体简体       | FZZJ-DYKTJW        | GB2312-80  |
