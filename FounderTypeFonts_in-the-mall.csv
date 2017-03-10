@@ -1,4 +1,5 @@
 Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Styles,Width,Weight,Blocks,Characters,Glyphs
+方正板桥繁体U (Regular),方正板桥繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8001
 方正榜书行繁体 (Regular),方正榜书行繁体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7814
 方正榜书行简体 (Regular),方正榜书行简体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8104
 方正榜书楷繁体 (Regular),方正榜书楷繁体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7814
@@ -20,6 +21,7 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正彩云繁体 (Regular),方正彩云繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正彩云简体 (Regular),方正彩云简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正彩雲 (Regular),方正彩雲,Regular,,,4.10,BDFZ,Regular,5 (Medium),400 (Normal),35,9705,9722
+方正苍石行书繁体U (Regular),方正苍石行书繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8001
 方正藏意汉体简体 (Regular),方正藏意汉体简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正超粗黑 (Regular),方正超粗黑,Regular,,,4.10,BDFZ,Regular,5 (Medium),400 (Normal),36,18732,18749
 方正超粗黑_GBK (Regular),方正超粗黑_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
@@ -75,6 +77,7 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正大雅宋繁体 (Regular),方正大雅宋繁体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正大雅宋简体 (Regular),方正大雅宋简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正德赛黑515简体 (Regular),方正德赛黑515简体,Regular,,,1.02,BDFZ,Regular,5 (Medium),400 (Normal),29,7696,7704
+方正邓黑隶简体 (Regular),方正邓黑隶简体,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
 方正帝后体简体 (Bold),方正帝后体简体,Bold,方正帝后体简体,Bold,,BDFZ,Regular,5 (Medium),700 (Bold),29,8105,8103
 方正帝后体简体 (Regular),方正帝后体简体,Regular,方正帝后体简体,Regular,,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
 方正帝后体简体 DemiBold (Regular),方正帝后体简体 DemiBold,Regular,方正帝后体简体,DemiBold,,BDFZ,Regular,5 (Medium),600 (Semi-bold),29,8105,8103
@@ -95,12 +98,19 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正非凡体简体 Light (Regular),方正非凡体简体 Light,Regular,方正非凡体简体,Light,,BDFZ,Regular,5 (Medium),300 (Light),29,8105,8103
 方正非凡体简体 Medium (Regular),方正非凡体简体 Medium,Regular,方正非凡体简体,Medium,,BDFZ,Regular,5 (Medium),500 (Medium),29,8105,8103
 方正粉丝天下简体 (Regular),方正粉丝天下简体,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,7711,7711
+方正风雅楷宋简体 (Bold),方正风雅楷宋简体,Bold,方正风雅楷宋简体,Bold,,BDFZ,Regular,5 (Medium),700 (Bold),29,8105,8103
+方正风雅楷宋简体 (Regular),方正风雅楷宋简体,Regular,方正风雅楷宋简体,Regular,,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
+方正风雅楷宋简体 DemiBold (Regular),方正风雅楷宋简体 DemiBold,Regular,方正风雅楷宋简体,DemiBold,,BDFZ,Regular,5 (Medium),600 (Semi-bold),29,8105,8103
+方正风雅楷宋简体 ExtraBold (Regular),方正风雅楷宋简体 ExtraBold,Regular,方正风雅楷宋简体,ExtraBold,,BDFZ,Regular,5 (Medium),800 (Extra-bold),29,8105,8103
+方正风雅楷宋简体 Light (Regular),方正风雅楷宋简体 Light,Regular,方正风雅楷宋简体,Light,,BDFZ,Regular,5 (Medium),300 (Light),29,8105,8103
+方正风雅楷宋简体 Medium (Regular),方正风雅楷宋简体 Medium,Regular,方正风雅楷宋简体,Medium,,BDFZ,Regular,5 (Medium),500 (Medium),29,8105,8103
 方正工业黑简体 (Regular),方正工业黑简体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正古仿繁体 (Regular),方正古仿繁体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正古仿简体 (Regular),方正古仿简体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正古隶_GBK (Regular),方正古隶_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,10639,10672
 方正古隶繁体 (Regular),方正古隶繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正古隶简体 (Regular),方正古隶简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正海藏楷繁体U (Regular),方正海藏楷繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8000
 方正汉简简体 (Regular),方正汉简简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正汉真广标简体 (Regular),方正汉真广标简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7696,7704
 方正行黑简体 (Regular),方正行黑简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
@@ -111,6 +121,9 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正豪体繁体 (Regular),方正豪体繁体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正豪体简体 (Regular),方正豪体简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正郝刚青铜体简体 (Regular),方正郝刚青铜体简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7711,7719
+方正黑变繁体U (Regular),方正黑变繁体U,Regular,,,Version 1.01,BDFZ,Regular,5 (Medium),400 (Normal),29,7817,7815
+方正黑变简繁 (Regular),方正黑变简繁,Regular,,,Version 1.01,BDFZ,Regular,5 (Medium),400 (Normal),32,10292,10317
+方正黑变简体 (Regular),方正黑变简体,Regular,,,Version 1.01,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
 方正黑隶简体 (Regular),方正黑隶简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正黑隶简体_粗 (Regular),方正黑隶简体_粗,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正黑隶简体_大 (Regular),方正黑隶简体_大,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
@@ -130,6 +143,7 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正华隶简体 (Regular),方正华隶简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
 方正黄草_GBK (Regular),方正黄草_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,10328,10361
 方正黄草简体 (Regular),方正黄草简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正黄楷繁体U (Regular),方正黄楷繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8000
 方正基础像素 (Regular),方正基础像素,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),13,7031,7083
 方正寂地简体 (Regular),方正寂地简体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),30,7730,7732
 方正剪纸_GBK (Regular),方正剪纸_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,10666,10699
@@ -250,6 +264,7 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正喵呜_GBK (Regular),方正喵呜_GBK,Regular,,,1.20,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
 方正喵呜繁体 (Regular),方正喵呜繁体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正喵呜简体 (Regular),方正喵呜简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正明行繁体U (Regular),方正明行繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8001
 方正明尚简体 (Regular),方正明尚简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正呐喊简体 (Regular),方正呐喊简体,Regular,,,Version 1.20,BDFZ,Regular,5 (Medium),400 (Normal),29,7727,7735
 方正胖头鱼简体 (Regular),方正胖头鱼简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
@@ -281,7 +296,9 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正清纯体简体 Heavy (Regular),方正清纯体简体 Heavy,Regular,方正清纯体简体,Heavy,,BDFZ,Regular,5 (Medium),900 (Black),29,8105,8103
 方正清纯体简体 Light (Regular),方正清纯体简体 Light,Regular,方正清纯体简体,Light,,BDFZ,Regular,5 (Medium),300 (Light),29,8105,8103
 方正清纯体简体 Medium (Regular),方正清纯体简体 Medium,Regular,方正清纯体简体,Medium,,BDFZ,Regular,5 (Medium),500 (Medium),29,8105,8103
+方正清楷繁体U (Regular),方正清楷繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8000
 方正清刻本悦宋简体 (Regular),方正清刻本悦宋简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正趣黑简体 (Regular),方正趣黑简体,Regular,,,Version 1.01,BDFZ,Regular,5 (Medium),400 (Normal),29,8090,8089
 方正趣宋简体 (Regular),方正趣宋简体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正锐水云简体_大 (Regular),方正锐水云简体_大,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8104
 方正锐正黑简体 (Regular),方正锐正黑简体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
@@ -330,6 +347,7 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正水柱繁体 (Regular),方正水柱繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正水柱简体 (Regular),方正水柱简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正四岁半简体 (Regular),方正四岁半简体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),32,8154,8179
+方正松风行书繁体U (Regular),方正松风行书繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),32,7975,8001
 方正宋黑_GBK (Regular),方正宋黑_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
 方正宋黑繁体 (Regular),方正宋黑繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正宋黑简体 (Regular),方正宋黑简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
@@ -388,6 +406,8 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正祥隶_GBK (Regular),方正祥隶_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,10639,10672
 方正祥隶繁体 (Regular),方正祥隶繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正祥隶简体 (Regular),方正祥隶简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正向际纯钢板繁体U (Regular),方正向际纯钢板繁体U,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,7816,7824
+方正向际纯钢板简体 (Regular),方正向际纯钢板简体,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正像素12 (Regular),方正像素12,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),24,7540,7555
 方正像素14 (Regular),方正像素14,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),24,7540,7557
 方正像素15 (Regular),方正像素15,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),24,7540,7558
