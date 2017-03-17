@@ -12,12 +12,12 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体680种：
+目前官方商城在售字体684种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 359        |
-| GB12345-90 | 164        |
+| GB2312-80  | 361        |
+| GB12345-90 | 166        |
 | GBK        | 113        |
 | BIG-5      | 43         |
 |GB18030-2000| 1          |
@@ -208,6 +208,7 @@
 | 方正字迹-杜慧田草书繁体     | FZZJ-DHTCSFW       | GB12345-90 |
 | 方正字迹-度知度体繁体       | FZZJ-DZDTFW        | GB12345-90 |
 | 方正字迹-管峻楷书繁体       | FZZJ-GJKSFW        | GB12345-90 |
+| 方正字迹-海体楷书繁体       | FZZJ-HTKSFW        | GB12345-90 |
 | 方正字迹-豪放行书繁体       | FZZJ-HFXSFW        | GB12345-90 |
 | 方正字迹-黎凡行书繁体       | FZZJ-LFXSFW        | GB12345-90 |
 | 方正字迹-李太平根隶繁体     | FZZJ-LTPGLFW       | GB12345-90 |
@@ -215,6 +216,7 @@
 | 方正字迹-吕建德魏碑繁体     | FZZJ-LJDWBFW       | GB12345-90 |
 | 方正字迹-佩安硬笔繁体       | FZZJ-PANYBFW       | GB12345-90 |
 | 方正字迹-启笛小楷繁体       | FZZJ-QDXKFW        | GB12345-90 |
+| 方正字迹-少壮繁体           | FZZJ-SZFW          | GB12345-90 |
 | 方正字迹-童佬繁体           | FZZJ-TLFW          | GB12345-90 |
 | 方正字迹-王伟钢笔行书繁体   | FZZJ-WWGBXSFW      | GB12345-90 |
 | 方正字迹-潇洒隶书繁体       | FZZJ-XSLSFW        | GB12345-90 |
@@ -408,9 +410,9 @@
 | 方正锐水云简体              | FZRuiSYJW          | GB2312-80  |
 | 方正锐水云简体 Bold         | FZRuiSYJW_Cu       | GB2312-80  |
 | 方正锐水云简体 DemiBold     | FZRuiSYJW_Zhong    | GB2312-80  |
+| 方正锐水云简体 ExtraBold    | FZRuiSYJW_Da       | GB2312-80  |
 | 方正锐水云简体 ExtraLight   | FZRuiSYJW_Xian     | GB2312-80  |
 | 方正锐水云简体 Medium       | FZRuiSYJW_Zhun     | GB2312-80  |
-| 方正锐水云简体_大           | FZRuiSYJW_Da       | GB2312-80  |
 | 方正锐正黑简体              | FZRuiZHJW          | GB2312-80  |
 | 方正锐正黑简体_粗           | FZRuiZHJW_Cu       | GB2312-80  |
 | 方正锐正黑简体_大           | FZRuiZHJW_Da       | GB2312-80  |
@@ -559,6 +561,7 @@
 | 方正字迹-冯金城简体         | FZZJ-FJCJW         | GB2312-80  |
 | 方正字迹-佛君包装简体       | FZZJ-FJBZJW        | GB2312-80  |
 | 方正字迹-管峻楷书简体       | FZZJ-GJKSJW        | GB2312-80  |
+| 方正字迹-海体楷书简体       | FZZJ-HTKSJW        | GB2312-80  |
 | 方正字迹-豪放行书简体       | FZZJ-HFXSJW        | GB2312-80  |
 | 方正字迹-老潘硬笔简体       | FZZJ-LPYBJW        | GB2312-80  |
 | 方正字迹-黎凡行书简体       | FZZJ-LFXSJW        | GB2312-80  |
@@ -568,6 +571,7 @@
 | 方正字迹-佩安硬笔简体       | FZZJ-PANYBJW       | GB2312-80  |
 | 方正字迹-启笛小楷简体       | FZZJ-QDXKJW        | GB2312-80  |
 | 方正字迹-邱氏粗瘦金书简体   | FZZJ-QSCSJSJW      | GB2312-80  |
+| 方正字迹-少壮简体           | FZZJ-SZJW          | GB2312-80  |
 | 方正字迹-童佬简体           | FZZJ-TLJW          | GB2312-80  |
 | 方正字迹-童体毛笔简体       | FZZJ-TTMBJW        | GB2312-80  |
 | 方正字迹-童体硬笔简体       | FZZJ-TTYBJW        | GB2312-80  |
