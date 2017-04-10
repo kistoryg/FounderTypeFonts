@@ -12,12 +12,12 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体684种：
+目前官方商城在售字体688种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 361        |
-| GB12345-90 | 166        |
+| GB2312-80  | 363        |
+| GB12345-90 | 168        |
 | GBK        | 113        |
 | BIG-5      | 43         |
 |GB18030-2000| 1          |
@@ -207,11 +207,13 @@
 | 方正字迹-典雅楷体繁体       | FZZJ-DYKTFW        | GB12345-90 |
 | 方正字迹-杜慧田草书繁体     | FZZJ-DHTCSFW       | GB12345-90 |
 | 方正字迹-度知度体繁体       | FZZJ-DZDTFW        | GB12345-90 |
+| 方正字迹-钢笔伟楷繁体       | FZZJ-GBWKFW        | GB12345-90 |
 | 方正字迹-管峻楷书繁体       | FZZJ-GJKSFW        | GB12345-90 |
 | 方正字迹-海体楷书繁体       | FZZJ-HTKSFW        | GB12345-90 |
 | 方正字迹-豪放行书繁体       | FZZJ-HFXSFW        | GB12345-90 |
 | 方正字迹-黎凡行书繁体       | FZZJ-LFXSFW        | GB12345-90 |
 | 方正字迹-李太平根隶繁体     | FZZJ-LTPGLFW       | GB12345-90 |
+| 方正字迹-刘鑫标犷繁体       | FZZJ-LXBGFW        | GB12345-90 |
 | 方正字迹-吕建德行楷繁体     | FZZJ-LJDXKFW       | GB12345-90 |
 | 方正字迹-吕建德魏碑繁体     | FZZJ-LJDWBFW       | GB12345-90 |
 | 方正字迹-佩安硬笔繁体       | FZZJ-PANYBFW       | GB12345-90 |
@@ -560,12 +562,14 @@
 | 方正字迹-度知度体简体       | FZZJ-DZDTJW        | GB2312-80  |
 | 方正字迹-冯金城简体         | FZZJ-FJCJW         | GB2312-80  |
 | 方正字迹-佛君包装简体       | FZZJ-FJBZJW        | GB2312-80  |
+| 方正字迹-钢笔伟楷简体       | FZZJ-GBWKJW        | GB2312-80  |
 | 方正字迹-管峻楷书简体       | FZZJ-GJKSJW        | GB2312-80  |
 | 方正字迹-海体楷书简体       | FZZJ-HTKSJW        | GB2312-80  |
 | 方正字迹-豪放行书简体       | FZZJ-HFXSJW        | GB2312-80  |
 | 方正字迹-老潘硬笔简体       | FZZJ-LPYBJW        | GB2312-80  |
 | 方正字迹-黎凡行书简体       | FZZJ-LFXSJW        | GB2312-80  |
 | 方正字迹-李太平根隶简体     | FZZJ-LTPGLJW       | GB2312-80  |
+| 方正字迹-刘鑫标犷简体       | FZZJ-LXBGJW        | GB2312-80  |
 | 方正字迹-吕建德行楷简体     | FZZJ-LJDXKJW       | GB2312-80  |
 | 方正字迹-吕建德魏碑简体     | FZZJ-LJDWBJW       | GB2312-80  |
 | 方正字迹-佩安硬笔简体       | FZZJ-PANYBJW       | GB2312-80  |
