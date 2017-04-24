@@ -12,12 +12,12 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体688种：
+目前官方商城在售字体691种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 363        |
-| GB12345-90 | 168        |
+| GB2312-80  | 365        |
+| GB12345-90 | 169        |
 | GBK        | 113        |
 | BIG-5      | 43         |
 |GB18030-2000| 1          |
@@ -201,7 +201,7 @@
 | 方正中雅宋繁体              | FZZYSFW            | GB12345-90 |
 | 方正准雅宋繁体              | FZZHUNYSFW         | GB12345-90 |
 | 方正准圆繁体                | FZY3FW             | GB12345-90 |
-| 方正字迹－曾正国行楷繁体    | FZZJ-ZZGXKFW       | GB12345-90 |
+| 方正字迹-曾正国行楷繁体     | FZZJ-ZZGXKFW       | GB12345-90 |
 | 方正字迹-曾正国楷体繁体     | FZZJ-ZZGKTFW       | GB12345-90 |
 | 方正字迹-德年行书繁体       | FZZJ-DNXSFW        | GB12345-90 |
 | 方正字迹-典雅楷体繁体       | FZZJ-DYKTFW        | GB12345-90 |
@@ -218,6 +218,7 @@
 | 方正字迹-吕建德魏碑繁体     | FZZJ-LJDWBFW       | GB12345-90 |
 | 方正字迹-佩安硬笔繁体       | FZZJ-PANYBFW       | GB12345-90 |
 | 方正字迹-启笛小楷繁体       | FZZJ-QDXKFW        | GB12345-90 |
+| 方正字迹-清代碑体繁体       | FZZJ-QDBTFW        | GB12345-90 |
 | 方正字迹-少壮繁体           | FZZJ-SZFW          | GB12345-90 |
 | 方正字迹-童佬繁体           | FZZJ-TLFW          | GB12345-90 |
 | 方正字迹-王伟钢笔行书繁体   | FZZJ-WWGBXSFW      | GB12345-90 |
@@ -574,8 +575,10 @@
 | 方正字迹-吕建德魏碑简体     | FZZJ-LJDWBJW       | GB2312-80  |
 | 方正字迹-佩安硬笔简体       | FZZJ-PANYBJW       | GB2312-80  |
 | 方正字迹-启笛小楷简体       | FZZJ-QDXKJW        | GB2312-80  |
+| 方正字迹-清代碑体简体       | FZZJ-QDBTJW        | GB2312-80  |
 | 方正字迹-邱氏粗瘦金书简体   | FZZJ-QSCSJSJW      | GB2312-80  |
 | 方正字迹-少壮简体           | FZZJ-SZJW          | GB2312-80  |
+| 方正字迹-四海行书简体       | FZZJ-SHXSJW        | GB2312-80  |
 | 方正字迹-童佬简体           | FZZJ-TLJW          | GB2312-80  |
 | 方正字迹-童体毛笔简体       | FZZJ-TTMBJW        | GB2312-80  |
 | 方正字迹-童体硬笔简体       | FZZJ-TTYBJW        | GB2312-80  |
