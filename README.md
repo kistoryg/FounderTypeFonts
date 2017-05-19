@@ -12,11 +12,11 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体691种：
+目前官方商城在售字体692种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 365        |
+| GB2312-80  | 366        |
 | GB12345-90 | 169        |
 | GBK        | 113        |
 | BIG-5      | 43         |
@@ -483,6 +483,7 @@
 | 方正新楷体简体              | FZXKTJW            | GB2312-80  |
 | 方正新书宋简体              | FZXSSJW            | GB2312-80  |
 | 方正新舒体简体              | FZNSTJW            | GB2312-80  |
+| 方正徐冰新英文书体          | FZXBXYWST          | GB2312-80  |
 | 方正悬针篆变简体            | FZXZZBJW           | GB2312-80  |
 | 方正雅珠体简体              | FZYaZTJ            | GB2312-80  |
 | 方正雅珠体简体 Bold         | FZYaZTJ_Cu         | GB2312-80  |
