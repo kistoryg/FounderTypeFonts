@@ -12,14 +12,14 @@
 
 方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体692种：
+目前官方商城在售字体694种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 366        |
+| GB2312-80  | 367        |
 | GB12345-90 | 169        |
 | GBK        | 113        |
-| BIG-5      | 43         |
+| BIG-5      | 44         |
 |GB18030-2000| 1          |
 |GB18030-2005| 0          |
 
@@ -67,6 +67,7 @@
 | 方正幼線                    | FZYXB              | BIG-5      |
 | 方正中楷                    | FZZKB              | BIG-5      |
 | 方正準圓                    | FZY3B              | BIG-5      |
+| 方正字迹-趙安繁體U          | FZZJ-ZAFWU         | BIG-5      |
 | 方正綜藝                    | FZZYB              | BIG-5      |
 | 方正榜书行繁体              | FZBangSXFW         | GB12345-90 |
 | 方正榜书楷繁体              | FZBangSKFW         | GB12345-90 |
@@ -597,6 +598,7 @@
 | 方正字迹-张颢硬笔楷体简体   | FZZJ-ZHYBKTJW      | GB2312-80  |
 | 方正字迹-张乃仁行楷简体     | FZZJ-ZNRXKJW       | GB2312-80  |
 | 方正字迹-张士超魏碑简体     | FZZJ-ZSCWBJW       | GB2312-80  |
+| 方正字迹-赵安简体           | FZZJ-ZAJW          | GB2312-80  |
 | 方正字迹-志勇魏碑简体       | FZZJ-ZYWBJW        | GB2312-80  |
 | 方正字迹-周崇谦小篆简体     | FZZJ-ZCQXZJW       | GB2312-80  |
 | 方正字迹-朱涛钢笔行书简体   | FZZJ-ZTGBXSJW      | GB2312-80  |
