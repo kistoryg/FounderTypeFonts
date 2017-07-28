@@ -2,15 +2,15 @@
 
 官方网站:[http://www.foundertype.com/](http://www.foundertype.com/)
 
-官网商城:[http://shop.foundertype.com/index.php/FindFont/index.html](http://shop.foundertype.com/index.php/FindFont/index.html)
+官网商城:[http://www.foundertype.com/index.php/FindFont/index.html](http://www.foundertype.com/index.php/FindFont/index.html)
 
 官方淘宝店:[https://fangzhengziku.taobao.com/](https://fangzhengziku.taobao.com/)
 
-方正字库产品手册Online:[http://www.foundertype.com/index/manual/101/fzfont2010.html](http://www.foundertype.com/index/manual/101/fzfont2010.html)
+方正字库产品手册Online:[http://ifont.foundertype.com/index/manual/101/fzfont2010.html](http://ifont.foundertype.com/index/manual/101/fzfont2010.html)
 
-方正字库产品手册PDF:[http://shop.foundertype.com/index.php/Index/downManual.html](http://shop.foundertype.com/index.php/Index/downManual.html)
+方正字库产品手册PDF:[http://www.foundertype.com/index.php/Index/downManual.html](http://www.foundertype.com/index.php/Index/downManual.html)
 
-方正字体样张:[http://shop.foundertype.com/index.php/Index/downSample.html](http://shop.foundertype.com/index.php/Index/downSample.html)
+方正字体样张:[http://www.foundertype.com/index.php/Index/downSample.html](http://www.foundertype.com/index.php/Index/downSample.html)
 
 目前官方商城在售字体695种：
 

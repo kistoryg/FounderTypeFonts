@@ -177,8 +177,8 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正经黑简体 (Regular),方正经黑简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
 方正经黑手写简体 (Regular),方正经黑手写简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正静蕾简体 (Regular),方正静蕾简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7711,7719
-方正聚珍新仿繁体OU (Regular),方正聚珍新仿繁体OU,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,7817,7815
-方正聚珍新仿简体 (Regular),方正聚珍新仿简体,Regular,,,Version 1.00,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8103
+方正聚珍新仿繁体OU (Regular),方正聚珍新仿繁体OU,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,7817,7816
+方正聚珍新仿简体 (Regular),方正聚珍新仿简体,Regular,,,Version 1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8104
 方正俊黑简体 (Regular),方正俊黑简体,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正俊黑简体_粗 (Regular),方正俊黑简体_粗,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正俊黑简体_细 (Regular),方正俊黑简体_细,Regular,,,1.10,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
@@ -403,9 +403,9 @@ Display Name,Family,Subfamily,Pref. Family,Pref. Subfamily,Version,Vendor ID,Sty
 方正铁筋隶书繁体 (Regular),方正铁筋隶书繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
 方正铁筋隶书简体 (Regular),方正铁筋隶书简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
 方正魏碑 (Regular),方正魏碑,Regular,,,4.10,BDFZ,Regular,5 (Medium),400 (Normal),35,12780,12797
-方正魏碑_GBK (Regular),方正魏碑_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
-方正魏碑繁体 (Regular),方正魏碑繁体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,7814,7822
-方正魏碑简体 (Regular),方正魏碑简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8104,8112
+方正魏碑_GBK (Regular),方正魏碑_GBK,Regular,,,5.31,BDFZ,Regular,5 (Medium),400 (Normal),33,22002,22035
+方正魏碑繁体 (Regular),方正魏碑繁体,Regular,,,5.31,BDFZ,Regular,5 (Medium),400 (Normal),29,7815,7823
+方正魏碑简体 (Regular),方正魏碑简体,Regular,,,5.31,BDFZ,Regular,5 (Medium),400 (Normal),29,8105,8113
 方正细等线_GBK (Regular),方正细等线_GBK,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),33,22001,22034
 方正细等线繁体 (Regular),方正细等线繁体,Regular,,,1.00,BDFZ,Regular,5 (Medium),400 (Normal),28,7790,7798
 方正细等线简体 (Regular),方正细等线简体,Regular,,,5.30,BDFZ,Regular,5 (Medium),400 (Normal),29,8089,8097
