@@ -12,13 +12,13 @@
 
 方正字体样张:[http://www.foundertype.com/index.php/Index/downSample.html](http://www.foundertype.com/index.php/Index/downSample.html)
 
-目前官方商城在售字体695种：
+目前官方商城在售字体700种：
 
 | 字符集     | 字体数     |
 |------------|------------|
-| GB2312-80  | 368        |
-| GB12345-90 | 169        |
-| GBK        | 113        |
+| GB2312-80  | 370        |
+| GB12345-90 | 171        |
+| GBK        | 114        |
 | BIG-5      | 44         |
 |GB18030-2000| 1          |
 |GB18030-2005| 0          |
@@ -208,6 +208,8 @@
 | 方正字迹-典雅楷体繁体       | FZZJ-DYKTFW        | GB12345-90 |
 | 方正字迹-杜慧田草书繁体     | FZZJ-DHTCSFW       | GB12345-90 |
 | 方正字迹-度知度体繁体       | FZZJ-DZDTFW        | GB12345-90 |
+| 方正字迹-仿欧繁体           | FZZJ-FOFW          | GB12345-90 |
+| 方正字迹-仿颜繁体           | FZZJ-FYFW          | GB12345-90 |
 | 方正字迹-钢笔伟楷繁体       | FZZJ-GBWKFW        | GB12345-90 |
 | 方正字迹-管峻楷书繁体       | FZZJ-GJKSFW        | GB12345-90 |
 | 方正字迹-海体楷书繁体       | FZZJ-HTKSFW        | GB12345-90 |
@@ -564,6 +566,8 @@
 | 方正字迹-杜慧田毛笔楷书简体 | FZZJ-DHTMBKSJW     | GB2312-80  |
 | 方正字迹-杜慧田硬笔楷书简体 | FZZJ-DHTYBKSJW     | GB2312-80  |
 | 方正字迹-度知度体简体       | FZZJ-DZDTJW        | GB2312-80  |
+| 方正字迹-仿欧简体           | FZZJ-FOJW          | GB2312-80  |
+| 方正字迹-仿颜简体           | FZZJ-FYJW          | GB2312-80  |
 | 方正字迹-冯金城简体         | FZZJ-FJCJW         | GB2312-80  |
 | 方正字迹-佛君包装简体       | FZZJ-FJBZJW        | GB2312-80  |
 | 方正字迹-钢笔伟楷简体       | FZZJ-GBWKJW        | GB2312-80  |
@@ -630,6 +634,7 @@
 | 方正华隶_GBK                | FZHLK              | GBK        |
 | 方正黄草_GBK                | FZHCK              | GBK        |
 | 方正剪纸_GBK                | FZJZK              | GBK        |
+| 方正聚珍新仿简繁            | FZJuZXFJF          | GBK        |
 | 方正卡通_GBK                | FZKATK             | GBK        |
 | 方正楷体_GBK                | FZKTK              | GBK        |
 | 方正康体_GBK                | FZKANGK            | GBK        |
